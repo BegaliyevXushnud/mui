@@ -1,0 +1,36 @@
+
+{
+    "student":[
+        {
+            "id": "1",
+            "name": "John",
+            "age": 18,
+            "phone": "+998 99 688 17 06",
+            "guruh": "React js Bootcapm N11",
+            "teacher": "Uktam",
+            "address": "Sergeli o'zgarish"
+        }
+    ],
+    "teacher":[
+        {
+            "id": "1",
+            "name": "John",
+            "course":"Frontend"
+        }
+    ],
+    "group":[
+        {
+            "id": "1",
+            "name": "Standart N1",
+            "course":"Backend"
+        }
+    ],
+    "course":[
+        {
+            "id": "1",
+            "course":" Standart Backend",
+            "duration": "8 oy",
+            "price": "100$"
+        }
+    ]
+}
